@@ -20,7 +20,6 @@
 
 **CodeX** is a next-generation platform built to bridge the gap between solo problem solving and collaborative coding. Whether you are preparing for your next technical interview using our **AI Interviewer** or pair-programming with a friend in a **Real-Time Video Session**, CodeX provides a premium, distraction-free environment.
 
-![Demo App](./frontend/public/screenshot-for-readme.png)
 
 ## ✨ Key Features
 
